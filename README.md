@@ -1,6 +1,11 @@
 # Excel Automation
 ## This program serves as a central system to automate Excel with the use of commands.
 
+> Goals:
+> 1. Streamlining Excel workbook and worksheet processes through user commands and back-tracking.
+> 2. Enabling automated data transfer, clustering from large datasets, '.csv' files, and Wikipedia tables—leveraging Beautiful Soup for website scraping and openpyxl/pandas for data management.
+
+
 To start, run _excel_automation.py_ and create or load an Excel workbook by typing '/wbcreate' or '/wbload'
 To end the program at any point, type '/end'
 
